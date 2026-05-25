@@ -1,0 +1,4 @@
+google-generativeai
+python-docx
+pypdf2
+python-pptx
